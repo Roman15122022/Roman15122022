@@ -49,20 +49,20 @@ on new challenges that help me develop my front-end development skills.
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">Midstem land</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://midstem.net/">Click here</a></td>
+    <td style="text-align: center; vertical-align: middle;"><a href="https://midstem.net/" target="_blank">Click here</a></td>
     <td style="text-align: center; vertical-align: middle;">Develop and improve the landing page of the company. Improve page speed. Support and migration from one technology to another.</td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">SignScan</td>
     <td style="text-align: center; vertical-align: middle;">
-      <a href="https://apps.apple.com/ua/app/signscan/id6461823283">IOS</a><br>
-      <a href="https://play.google.com/store/apps/details?id=com.signscan&hl=ru">Android</a>
+      <a href="https://apps.apple.com/ua/app/signscan/id6461823283" target="_blank">IOS</a><br>
+      <a href="https://play.google.com/store/apps/details?id=com.signscan&hl=ua" target="_blank">Android</a>
     </td>
     <td style="text-align: center; vertical-align: middle;">App for recognizing road signs (with AI) and passing driving theory tests.</td>
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">TrackerR</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp?hl=ru&utm_source=ext_sidebar">Click here</a></td>
+    <td style="text-align: center; vertical-align: middle;"><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp?hl=ru&utm_source=ext_sidebar" target="_blank">Click here</a></td>
     <td style="text-align: center; vertical-align: middle;">TrackerR is a convenient extension for time and productivity tracking. It lets you log time spent on different tasks and projects, view a history of your activity to track progress, earn achievements for reaching goals, and analyze time statistics to identify areas for improvement. TrackerR is your personal assistant for boosting productivity and self-discipline.</td>
   </tr>
   <tr>
