@@ -35,3 +35,42 @@ on new challenges that help me develop my front-end development skills.
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Roman15122022's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman15122022&theme=nord&layout=compact&hide_border=true&count_private=true" height="200px"/></a>
 <br/>
 
+###
+
+## Projects
+
+###
+
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+  <tr>
+    <th style="width: 20%; text-align: center; vertical-align: middle;">Name</th>
+    <th style="width: 30%; text-align: center; vertical-align: middle;">Link</th>
+    <th style="text-align: center; vertical-align: middle;">Description</th>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">Midstem land</td>
+    <td style="text-align: center; vertical-align: middle;"><a href="https://midstem.net/">Click here</a></td>
+    <td style="text-align: center; vertical-align: middle;">Develop and improve the landing page of the company. Improve page speed. Support and migration from one technology to another.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">SignScan</td>
+    <td style="text-align: center; vertical-align: middle;">
+      <a href="https://apps.apple.com/ua/app/signscan/id6461823283">IOS</a><br>
+      <a href="https://play.google.com/store/apps/details?id=com.signscan&hl=ru">Android</a>
+    </td>
+    <td style="text-align: center; vertical-align: middle;">App for recognizing road signs (with AI) and passing driving theory tests.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">TrackerR</td>
+    <td style="text-align: center; vertical-align: middle;"><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp?hl=ru&utm_source=ext_sidebar">Click here</a></td>
+    <td style="text-align: center; vertical-align: middle;">TrackerR is a convenient extension for time and productivity tracking. It lets you log time spent on different tasks and projects, view a history of your activity to track progress, earn achievements for reaching goals, and analyze time statistics to identify areas for improvement. TrackerR is your personal assistant for boosting productivity and self-discipline.</td>
+  </tr>
+  <tr>
+    <td style="text-align: center; vertical-align: middle;">AutoCheckUp</td>
+    <td style="text-align: center; vertical-align: middle;">(Work in progress)</td>
+    <td style="text-align: center; vertical-align: middle;">This website helps car owners efficiently track fuel expenses, monitor maintenance history, and save contact information for service providers. Users can log refuel entries, view expense analytics, and estimate future costs for better financial planning. With organized records and insights, managing vehicle-related expenses becomes straightforward and convenient.</td>
+  </tr>
+</table>
+
+
+###
