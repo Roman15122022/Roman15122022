@@ -44,7 +44,7 @@ on new challenges that help me develop my front-end development skills.
 <table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
   <tr>
     <th style="width: 20%; text-align: center; vertical-align: middle;">Name</th>
-    <th style="width: 30%; text-align: center; vertical-align: middle;">Links</th>
+    <th style="width: 40%; text-align: center; vertical-align: middle;">Links</th>
     <th style="text-align: center; vertical-align: middle;">Description</th>
   </tr>
   <tr>
