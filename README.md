@@ -72,7 +72,7 @@ on new challenges that help me develop my front-end development skills.
   </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">AutoCheckUp</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://autocheckup-34720.firebaseapp.com" target="_blank">Click here</a></td>
+    <td style="text-align: center; vertical-align: middle; width: 100%;"><a href="https://autocheckup-34720.firebaseapp.com" target="_blank">Click here</a></td>
     <td style="text-align: center; vertical-align: middle;">This website helps car owners efficiently track fuel expenses, monitor maintenance history, and save contact information for service providers. Users can log refuel entries, view expense analytics, and estimate future costs for better financial planning. With organized records and insights, managing vehicle-related expenses becomes straightforward and convenient.</td>
   </tr>
 </table>
