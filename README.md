@@ -67,15 +67,20 @@ on new challenges that help me develop my front-end development skills.
     <td style="text-align: center; vertical-align: middle;"><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp?hl=ru&utm_source=ext_sidebar" target="_blank">Click here</a></td>
     <td style="text-align: center; vertical-align: middle;">TrackerR is a convenient extension for time and productivity tracking. It lets you log time spent on different tasks and projects, view a history of your activity to track progress, earn achievements for reaching goals, and analyze time statistics to identify areas for improvement. TrackerR is your personal assistant for boosting productivity and self-discipline.</td>
   </tr>
+    <tr>
+    <td style="text-align: center; vertical-align: middle;">AutoCheckUp</td>
+    <td style="text-align: center; vertical-align: middle;"><a href="https://autocheckup-34720.firebaseapp.com" target="_blank">Click here</a></td>
+    <td style="text-align: center; vertical-align: middle;">This website helps car owners efficiently track fuel expenses, monitor maintenance history, and save contact information for service providers. Users can log refuel entries, view expense analytics, and estimate future costs for better financial planning. With organized records and insights, managing vehicle-related expenses becomes straightforward and convenient.</td>
+  </tr>
+   <tr>
+    <td style="text-align: center; vertical-align: middle;">L2Calculator</td>
+    <td style="text-align: center; vertical-align: middle;"><a href="https://lineagee2unleashed.web.app" target="_blank">Click here</a></td>
+    <td style="text-align: center; vertical-align: middle;">This is a single-page application for Lineage 2 players, offering useful tools like an attribute damage penalty calculator, currency converter, optimal gear upgrade analyzer, and experience calculator. It helps you optimize your gameplay, make smarter decisions, and reach your goals faster..</td>
+  </tr>
   <tr>
     <td style="text-align: center; vertical-align: middle;">DevNotes</td>
     <td style="text-align: center; vertical-align: middle;"><a href="https://nikemaks.github.io/DevNoteProximity/auth/sign-in" target="_blank">Click here</a></td>
     <td style="text-align: center; vertical-align: middle;">A feature-rich web application with easy-to-use tools for task management: account creation, drag-and-drop notes, interactive calendar, and organizing ideas in a convenient format.</td>
-  </tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">AutoCheckUp</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://autocheckup-34720.firebaseapp.com" target="_blank">Click here</a></td>
-    <td style="text-align: center; vertical-align: middle;">This website helps car owners efficiently track fuel expenses, monitor maintenance history, and save contact information for service providers. Users can log refuel entries, view expense analytics, and estimate future costs for better financial planning. With organized records and insights, managing vehicle-related expenses becomes straightforward and convenient.</td>
   </tr>
 </table>
 
