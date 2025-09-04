@@ -31,8 +31,10 @@ on new challenges that help me develop my front-end development skills.
 <br/>  
 
 ## Github Stats  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Roman15122022's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Roman15122022&theme=nord&hide_border=true&count_private=true"  height="200px" width="49%"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Roman15122022's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman15122022&theme=nord&layout=compact&hide_border=true&count_private=true" height="200px" width="49%"/></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roman15122022&theme=nord&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman15122022&theme=nord&layout=compact&hide_border=true&count_private=true" width="49%" />
+</div>
 <br/>
 
 ###
