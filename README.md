@@ -86,5 +86,10 @@ on new challenges that help me develop my front-end development skills.
   </tr>
 </table>
 
+## 📊 Active
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roman15122022&theme=nord&hide_border=true&area=true" width="99%"/>
+</div>
 
 ###
