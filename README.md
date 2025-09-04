@@ -33,7 +33,7 @@ on new challenges that help me develop my front-end development skills.
 ## Github Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Roman15122022&theme=nord&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman15122022&theme=nord&layout=compact&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman15122022&theme=nord&layout=compact&hide_border=true&count_private=true&card_width=450&card_height=450" width="49%" />
 </div>
 <br/>
 
