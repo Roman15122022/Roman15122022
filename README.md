@@ -1,8 +1,8 @@
 ## Hi there 👋, my name is Roman
 
-<!-- <a href="https://www.linkedin.com/in/roman-malyi-2392a0295/?locale=ru_RU" target="_blank">
+<a href="https://www.linkedin.com/in/roman-malyi-2392a0295/?locale=ru_RU" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> -->
+</a>
 
 #### I am a Frontend developer
 I'm passionate about coding and always ready to take
