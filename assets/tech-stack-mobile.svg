@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1052" viewBox="0 0 480 1052" role="img" aria-labelledby="title description">
+  <title id="title">Roman's tech stack</title>
+  <desc id="description">Technologies used across my web, mobile, and full-stack projects, organized into six areas.</desc>
+  <rect width="480" height="1052" rx="12" fill="#142d27"/>
+  <text x="32" y="48" font-family="Georgia, serif" font-size="27" fill="#f5f0e7">Languages</text>
+  <text x="32" y="86" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#8fc5f4">TypeScript</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#edcd79">JavaScript</tspan></text>
+  <path d="M32 180h416" stroke="#365348"/>
+  <text x="32" y="216" font-family="Georgia, serif" font-size="27" fill="#f5f0e7">Web &amp; mobile</text>
+  <text x="32" y="254" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#87d5df">React</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#f5f0e7">Next.js</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#f2a391">Angular</tspan></text>
+  <text x="32" y="283" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#87d5df">React Native</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#c3b9ed">Expo</tspan></text>
+  <text x="32" y="312" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#c3b9ed">Redux Toolkit</tspan></text>
+  <path d="M32 348h416" stroke="#365348"/>
+  <text x="32" y="384" font-family="Georgia, serif" font-size="27" fill="#f5f0e7">APIs &amp; backend</text>
+  <text x="32" y="422" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#a9dfc8">Node.js</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#f2a391">NestJS</tspan></text>
+  <text x="32" y="451" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#e6afce">GraphQL</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#c3b9ed">Apollo</tspan></text>
+  <path d="M32 516h416" stroke="#365348"/>
+  <text x="32" y="552" font-family="Georgia, serif" font-size="27" fill="#f5f0e7">Data &amp; state</text>
+  <text x="32" y="590" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#edcd79">Firebase</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#8fc5f4">IndexedDB</tspan></text>
+  <text x="32" y="619" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#a9dfc8">Dexie</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#e2c5a1">Zustand</tspan></text>
+  <path d="M32 684h416" stroke="#365348"/>
+  <text x="32" y="720" font-family="Georgia, serif" font-size="27" fill="#f5f0e7">Interface &amp; design</text>
+  <text x="32" y="758" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#f2a391">HTML</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#8fc5f4">CSS</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#87d5df">Tailwind</tspan></text>
+  <text x="32" y="787" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#e6afce">Sass</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#edcd79">Styled Components</tspan></text>
+  <text x="32" y="816" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#c3b9ed">Figma</tspan></text>
+  <path d="M32 852h416" stroke="#365348"/>
+  <text x="32" y="888" font-family="Georgia, serif" font-size="27" fill="#f5f0e7">Build, test &amp; ship</text>
+  <text x="32" y="926" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#c3b9ed">Vite</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#8fc5f4">Webpack</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#a9dfc8">Vitest</tspan></text>
+  <text x="32" y="955" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#f2a391">Git</tspan><tspan fill="#94aaa1"> · </tspan><tspan fill="#8fc5f4">GitHub Actions</tspan></text>
+  <text x="32" y="984" font-family="Verdana, sans-serif" font-size="19"><tspan fill="#edcd79">AWS</tspan></text>
+</svg>
