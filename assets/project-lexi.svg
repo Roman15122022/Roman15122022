@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="230" viewBox="0 0 1440 230" role="img" aria-labelledby="title description">
+  <title id="title">Lexi English</title>
+  <desc id="description">Make new words your own. Original geometric vocabulary-card cover in warm ivory and muted blue.</desc>
+  <rect width="1440" height="230" rx="12" fill="#e8edf0"/>
+  <text x="46" y="106" font-family="Georgia, serif" font-size="64" fill="#253f4b">Lexi English</text>
+  <text x="49" y="153" font-family="Verdana, sans-serif" font-size="23" fill="#476571">Make new words your own.</text>
+  <rect x="1120" y="43" width="122" height="145" rx="12" fill="#b8ccd3" transform="rotate(-12 1181 115)"/>
+  <rect x="1160" y="40" width="122" height="150" rx="12" fill="#476571" transform="rotate(9 1221 115)"/>
+  <text x="1221" y="128" text-anchor="middle" font-family="Georgia, serif" font-size="51" fill="#f6f0e6" transform="rotate(9 1221 115)">Aa</text>
+  <circle cx="1316" cy="54" r="10" fill="#c5795a"/>
+</svg>
