@@ -22,6 +22,14 @@ I enjoy the whole journey: **a clear idea, thoughtful interactions, and the engi
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <a href="https://lexi-english-six.vercel.app"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-lexi.svg" alt="Lexi English — Make new words your own" width="100%" /></a>
+      <h3><a href="https://lexi-english-six.vercel.app">Lexi English</a></h3>
+      <p>A personal English vocabulary app with spaced-repetition flashcards, translations, pronunciation, and word imports. Learn offline, track your progress, and keep your vocabulary on your device — no account required.</p>
+      <p><a href="https://lexi-english-six.vercel.app"><strong>Start learning ↗</strong></a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/Roman15122022/React-redux-toolkit-extension"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-trackerr.svg" alt="TrackerR — A little more focus" width="100%" /></a>
       <h3><a href="https://github.com/Roman15122022/React-redux-toolkit-extension">TrackerR</a></h3>
