@@ -18,6 +18,15 @@ I enjoy the whole journey: **a clear idea, thoughtful interactions, and the engi
 
 <br />
 
+## Tech stack
+
+<picture>
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Roman15122022/Roman15122022/8f3312e4f32de5fde3f61b2d2d3ec5a303775dda/assets/tech-stack-mobile.svg" />
+  <img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/8f3312e4f32de5fde3f61b2d2d3ec5a303775dda/assets/tech-stack.svg" alt="Languages: TypeScript, JavaScript. Web and mobile: React, Next.js, Angular, React Native, Expo, Redux Toolkit. Backend: Node.js, NestJS, GraphQL, Apollo. Data: Firebase, IndexedDB, Dexie, Zustand. Interface: HTML, CSS, Tailwind, Sass, Styled Components, Figma. Tools: Vite, Webpack, Vitest, Git, GitHub Actions, AWS." width="100%" />
+</picture>
+
+<br />
+
 ## Featured projects
 
 <table>
@@ -128,15 +137,6 @@ A Lineage 2 toolkit for attribute damage penalties, currency conversion, gear up
 An everyday workspace for ideas and tasks, with accounts, drag-and-drop notes, and an interactive calendar.
 
 [Explore the app ↗](https://nikemaks.github.io/DevNoteProximity/auth/sign-in) &nbsp; · &nbsp; [Code](https://github.com/Roman15122022/DevNoteProximity)
-
-<br />
-
-## Tech stack
-
-<picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Roman15122022/Roman15122022/3d420c05c773502bc786ffe3574b1da502918455/assets/tech-stack-mobile.svg" />
-  <img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/3d420c05c773502bc786ffe3574b1da502918455/assets/tech-stack.svg" alt="Languages: TypeScript, JavaScript. Web and mobile: React, Next.js, Angular, React Native, Expo, Redux Toolkit. Backend: Node.js, NestJS, GraphQL, Apollo. Data: Firebase, IndexedDB, Dexie, Zustand. Interface: HTML, CSS, Tailwind, Sass, Styled Components, Figma. Tools: Vite, Webpack, Vitest, Git, GitHub Actions, AWS." width="100%" />
-</picture>
 
 <br />
 
