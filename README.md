@@ -1,95 +1,85 @@
-## Hi there 👋, my name is Roman
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/profile-banner.svg" alt="Roman — Frontend Developer. Thoughtful interfaces. Useful products." width="100%" />
+</p>
 
-<!-- <a href="https://www.linkedin.com/in/roman-malyi-2392a0295/?locale=ru_RU" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> -->
+<p align="center">
+  <a href="#selected-work"><strong>Selected work</strong></a> &nbsp; / &nbsp;
+  <a href="#my-toolkit"><strong>My toolkit</strong></a> &nbsp; / &nbsp;
+  <a href="https://github.com/Roman15122022?tab=repositories"><strong>Explore my code ↗</strong></a>
+</p>
 
-#### I am a Frontend developer
-I'm passionate about coding and always ready to take
-on new challenges that help me develop my front-end development skills.
+<br />
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="45" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="45" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="45" /></a>  
-<a href="https://angular.io/start" target="_blank"><img style="margin: 15px" src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" height="45" /></a> 
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="45" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="45" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="45" /></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="45" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="45" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="45" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 15px" src="icons/styled-components.svg" alt="Styled Components" height="45" width="65" /></a>
-<a href="https://aws.amazon.com/ru/" target="_blank"><img style="margin: 15px" src="icons/aws.svg" alt="AWS" height="45" width="65" /></a>    
-<a href="https://github.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="45" /></a>   
-<a href="https://webpack.js.org/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="45" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 15px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="45" /></a>  
-</div>  
+## A little about me
 
-<br/>  
+I'm **Roman**, a frontend developer who enjoys turning everyday problems into useful, approachable interfaces. My work spans productivity tools, web applications, company websites, and a road-sign learning app.
 
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roman15122022&theme=nord&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman15122022&theme=nord&layout=compact&hide_border=true&count_private=true&card_width=450&card_height=450" width="49%" />
-</div>
-<br/>
+I care about **clear interfaces, performance, and maintainable code** — and I'm always learning by building.
 
-###
+<br />
 
-## Projects
+## Selected work
 
-###
-
-<table style="width: 100%; border-collapse: collapse; table-layout: fixed;">
+<table>
   <tr>
-    <th style="text-align: center; vertical-align: center;">Name</th>
-    <th style="text-align: center; vertical-align: middle;">ProjectLink</th>
-    <th style="text-align: center; vertical-align: middle;">Description</th>
+    <td width="50%" valign="top">
+      <h3>TrackerR</h3>
+      <p><strong>Make time for what matters.</strong></p>
+      <p>A Chrome extension for tracking time and productivity. Activity history, goals, achievements, and statistics help turn everyday effort into visible progress.</p>
+      <p><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp"><strong>Chrome Web Store ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/React-redux-toolkit-extension">Source code</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>SignScan</h3>
+      <p><strong>A clearer way to learn the road.</strong></p>
+      <p>An app for AI-powered road-sign recognition and driving theory practice. Explore traffic signs and prepare for theory tests.</p>
+      <p><a href="https://apps.apple.com/ua/app/signscan/id6461823283"><strong>App Store ↗</strong></a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=com.signscan">Google Play ↗</a></p>
+    </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">Midstem land</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://midstem.net/" target="_blank">Click here</a></td>
-    <td style="text-align: center; vertical-align: middle;">Develop and improve the landing page of the company. Improve page speed. Support and migration from one technology to another.</td>
-  </tr>
-<tr>
-  <td style="text-align: center; vertical-align: middle;">SignScan</td>
-  <td style="text-align: center; vertical-align: middle; white-space: nowrap;">
-    <a href="https://apps.apple.com/ua/app/signscan/id6461823283" target="_blank">iOS</a>
-    <a href="https://play.google.com/store/apps/details?id=com.signscan&hl=ua" target="_blank">Android</a>
-  </td>
-  <td style="text-align: center; vertical-align: middle;">
-    App for recognizing road signs (with AI) and passing driving theory tests.
-  </td>
-</tr>
-  <tr>
-    <td style="text-align: center; vertical-align: middle;">TrackerR</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp?hl=ru&utm_source=ext_sidebar" target="_blank">Click here</a></td>
-    <td style="text-align: center; vertical-align: middle;">TrackerR is a convenient extension for time and productivity tracking. It lets you log time spent on different tasks and projects, view a history of your activity to track progress, earn achievements for reaching goals, and analyze time statistics to identify areas for improvement. TrackerR is your personal assistant for boosting productivity and self-discipline.</td>
-  </tr>
-    <tr>
-    <td style="text-align: center; vertical-align: middle;">AutoCheckUp</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://autocheckup-34720.firebaseapp.com" target="_blank">Click here</a></td>
-    <td style="text-align: center; vertical-align: middle;">This website helps car owners efficiently track fuel expenses, monitor maintenance history, and save contact information for service providers. Users can log refuel entries, view expense analytics, and estimate future costs for better financial planning. With organized records and insights, managing vehicle-related expenses becomes straightforward and convenient.</td>
-  </tr>
-   <tr>
-    <td style="text-align: center; vertical-align: middle;">L2Calculator</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://lineagee2unleashed.web.app" target="_blank">Click here</a></td>
-    <td style="text-align: center; vertical-align: middle;">This is a single-page application for Lineage 2 players, offering useful tools like an attribute damage penalty calculator, currency converter, optimal gear upgrade analyzer, and experience calculator. It helps you optimize your gameplay, make smarter decisions, and reach your goals faster..</td>
+    <td width="50%" valign="top">
+      <h3>AutoCheckUp</h3>
+      <p><strong>Car ownership, better organized.</strong></p>
+      <p>A web app for fuel expenses, maintenance history, and service contacts. Keep records in one place and understand vehicle costs with expense analytics.</p>
+      <p><a href="https://autocheckup-34720.firebaseapp.com"><strong>Explore the app ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Midstem</h3>
+      <p><strong>A company website built to perform.</strong></p>
+      <p>Development and improvements to the company landing page, with work on page speed, ongoing support, and migration between technologies.</p>
+      <p><a href="https://midstem.net/"><strong>Visit the website ↗</strong></a></p>
+    </td>
   </tr>
   <tr>
-    <td style="text-align: center; vertical-align: middle;">DevNotes</td>
-    <td style="text-align: center; vertical-align: middle;"><a href="https://nikemaks.github.io/DevNoteProximity/auth/sign-in" target="_blank">Click here</a></td>
-    <td style="text-align: center; vertical-align: middle;">A feature-rich web application with easy-to-use tools for task management: account creation, drag-and-drop notes, interactive calendar, and organizing ideas in a convenient format.</td>
+    <td width="50%" valign="top">
+      <h3>L2Calculator</h3>
+      <p><strong>Less guesswork. Better gameplay.</strong></p>
+      <p>A toolkit for Lineage 2 players: attribute damage penalties, currency conversion, gear upgrades, and experience calculations.</p>
+      <p><a href="https://lineagee2unleashed.web.app"><strong>Open the toolkit ↗</strong></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>DevNotes</h3>
+      <p><strong>Give your ideas a place to grow.</strong></p>
+      <p>A task-management web app with accounts, drag-and-drop notes, and an interactive calendar for organizing ideas and planning the day.</p>
+      <p><a href="https://nikemaks.github.io/DevNoteProximity/auth/sign-in"><strong>Explore the app ↗</strong></a></p>
+    </td>
   </tr>
 </table>
 
-## 📊 Active
+<br />
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roman15122022&theme=nord&hide_border=true&area=true" width="99%"/>
-</div>
+## My toolkit
 
-###
+**Languages** &nbsp; `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+**Frontend** &nbsp; `React` · `Next.js` · `Angular` · `Redux`
+
+**Styling** &nbsp; `Tailwind CSS` · `Sass` · `Styled Components`
+
+**Tools & platforms** &nbsp; `Git` · `Firebase` · `AWS` · `Webpack` · `Figma`
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/Roman15122022?tab=repositories">More projects</a> &nbsp; · &nbsp;
+  <a href="https://github.com/Roman15122022?tab=overview">Contribution history</a>
+</p>
