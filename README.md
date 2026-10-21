@@ -3,83 +3,108 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work"><strong>Selected work</strong></a> &nbsp; / &nbsp;
-  <a href="#my-toolkit"><strong>My toolkit</strong></a> &nbsp; / &nbsp;
-  <a href="https://github.com/Roman15122022?tab=repositories"><strong>Explore my code ↗</strong></a>
+  <a href="#featured-projects"><strong>Featured projects</strong></a> &nbsp; / &nbsp;
+  <a href="#more-things-ive-built"><strong>More work</strong></a> &nbsp; / &nbsp;
+  <a href="https://github.com/Roman15122022?tab=repositories"><strong>Explore my GitHub ↗</strong></a>
 </p>
 
 <br />
 
-## A little about me
+## Hi, I'm Roman.
 
-I'm **Roman**, a frontend developer who enjoys turning everyday problems into useful, approachable interfaces. My work spans productivity tools, web applications, company websites, and a road-sign learning app.
+I build interfaces that turn everyday problems into useful products — from browser extensions and mobile experiences to offline web apps and full-stack tools.
 
-I care about **clear interfaces, performance, and maintainable code** — and I'm always learning by building.
+I enjoy the whole journey: **a clear idea, thoughtful interactions, and the engineering that makes it work.**
 
 <br />
 
-## Selected work
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>TrackerR</h3>
-      <p><strong>Make time for what matters.</strong></p>
-      <p>A Chrome extension for tracking time and productivity. Activity history, goals, achievements, and statistics help turn everyday effort into visible progress.</p>
-      <p><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp"><strong>Chrome Web Store ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/React-redux-toolkit-extension">Source code</a></p>
+      <a href="https://github.com/Roman15122022/React-redux-toolkit-extension"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-trackerr.svg" alt="TrackerR — A little more focus" width="100%" /></a>
+      <h3><a href="https://github.com/Roman15122022/React-redux-toolkit-extension">TrackerR</a></h3>
+      <p>Your time, with a little more intention. A productivity extension with activity history, focus goals, achievements, and time statistics.</p>
+      <p><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp"><strong>Get the extension ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/React-redux-toolkit-extension">Code</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>SignScan</h3>
-      <p><strong>A clearer way to learn the road.</strong></p>
-      <p>An app for AI-powered road-sign recognition and driving theory practice. Explore traffic signs and prepare for theory tests.</p>
-      <p><a href="https://apps.apple.com/ua/app/signscan/id6461823283"><strong>App Store ↗</strong></a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=com.signscan">Google Play ↗</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>AutoCheckUp</h3>
-      <p><strong>Car ownership, better organized.</strong></p>
-      <p>A web app for fuel expenses, maintenance history, and service contacts. Keep records in one place and understand vehicle costs with expense analytics.</p>
-      <p><a href="https://autocheckup-34720.firebaseapp.com"><strong>Explore the app ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Midstem</h3>
-      <p><strong>A company website built to perform.</strong></p>
-      <p>Development and improvements to the company landing page, with work on page speed, ongoing support, and migration between technologies.</p>
-      <p><a href="https://midstem.net/"><strong>Visit the website ↗</strong></a></p>
+      <a href="https://github.com/Roman15122022/ListOfProducts"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-shopping.svg" alt="Smart Shopping — Plan less. Live more." width="100%" /></a>
+      <h3><a href="https://github.com/Roman15122022/ListOfProducts">Smart Shopping List</a></h3>
+      <p>An offline-first shopping PWA with budgets, purchase history, pantry tracking, and recipe discovery. Your lists stay on your device.</p>
+      <p><a href="https://roman15122022.github.io/ListOfProducts/"><strong>Try the app ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/ListOfProducts">Code</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>L2Calculator</h3>
-      <p><strong>Less guesswork. Better gameplay.</strong></p>
-      <p>A toolkit for Lineage 2 players: attribute damage penalties, currency conversion, gear upgrades, and experience calculations.</p>
-      <p><a href="https://lineagee2unleashed.web.app"><strong>Open the toolkit ↗</strong></a></p>
+      <a href="https://github.com/Roman15122022/test-task-google-form-clone"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-forms.svg" alt="Forms Lite — Ask. Collect. Understand." width="100%" /></a>
+      <h3><a href="https://github.com/Roman15122022/test-task-google-form-clone">Forms Lite</a></h3>
+      <p>Create forms, collect submissions, and explore responses. A full-stack form builder with a GraphQL API and shared, generated type contracts.</p>
+      <p><a href="https://github.com/Roman15122022/test-task-google-form-clone"><strong>Explore the project ↗</strong></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>DevNotes</h3>
-      <p><strong>Give your ideas a place to grow.</strong></p>
-      <p>A task-management web app with accounts, drag-and-drop notes, and an interactive calendar for organizing ideas and planning the day.</p>
-      <p><a href="https://nikemaks.github.io/DevNoteProximity/auth/sign-in"><strong>Explore the app ↗</strong></a></p>
+      <a href="https://github.com/Roman15122022/pockemon-info"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-pokemon.svg" alt="PokeAPI Explorer — A world worth exploring" width="100%" /></a>
+      <h3><a href="https://github.com/Roman15122022/pockemon-info">PokeAPI Explorer</a></h3>
+      <p>A Pokédex with search, filters, pagination, and a details drawer. Discover Pokémon and keep a collection of favorites between visits.</p>
+      <p><a href="https://roman15122022.github.io/pockemon-info/"><strong>Explore Pokémon ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/pockemon-info">Code</a></p>
     </td>
   </tr>
 </table>
 
 <br />
 
-## My toolkit
+## More things I've built
 
-**Languages** &nbsp; `TypeScript` · `JavaScript` · `HTML` · `CSS`
+### [Banner Manager](https://github.com/Roman15122022/test-fullstack-banners)
 
-**Frontend** &nbsp; `React` · `Next.js` · `Angular` · `Redux`
+A full-stack banner-management app: image uploads, previews, validation, server-side pagination, and a multilingual interface. Angular on the frontend, NestJS behind the API.
 
-**Styling** &nbsp; `Tailwind CSS` · `Sass` · `Styled Components`
+[Explore the code ↗](https://github.com/Roman15122022/test-fullstack-banners)
 
-**Tools & platforms** &nbsp; `Git` · `Firebase` · `AWS` · `Webpack` · `Figma`
+---
+
+### SignScan
+
+AI-powered road-sign recognition and driving theory practice, available on mobile.
+
+[App Store ↗](https://apps.apple.com/ua/app/signscan/id6461823283) &nbsp; · &nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.signscan)
+
+---
+
+### AutoCheckUp
+
+A home for fuel expenses, maintenance history, and service contacts — with analytics to understand the cost of owning a car.
+
+[Open the app ↗](https://autocheckup-34720.firebaseapp.com)
+
+---
+
+### Midstem
+
+Company website development, page-speed improvements, ongoing support, and migration between technologies.
+
+[Visit the website ↗](https://midstem.net/)
+
+---
+
+### L2Calculator
+
+A Lineage 2 toolkit for attribute damage penalties, currency conversion, gear upgrades, and experience calculations.
+
+[Open the toolkit ↗](https://lineagee2unleashed.web.app)
+
+---
+
+### DevNotes
+
+An everyday workspace for ideas and tasks, with accounts, drag-and-drop notes, and an interactive calendar.
+
+[Explore the app ↗](https://nikemaks.github.io/DevNoteProximity/auth/sign-in) &nbsp; · &nbsp; [Code](https://github.com/Roman15122022/DevNoteProximity)
 
 <br />
 
 <p align="center">
-  <a href="https://github.com/Roman15122022?tab=repositories">More projects</a> &nbsp; · &nbsp;
+  <strong>Always curious. Always building.</strong><br /><br />
+  <a href="https://github.com/Roman15122022?tab=repositories">All repositories ↗</a> &nbsp; · &nbsp;
   <a href="https://github.com/Roman15122022?tab=overview">Contribution history</a>
 </p>
