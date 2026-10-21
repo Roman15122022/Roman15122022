@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="230" viewBox="0 0 720 230" role="img" aria-labelledby="title description">
+  <title id="title">TrackerR</title>
+  <desc id="description">A little more focus. Original geometric project cover.</desc>
+  <rect width="720" height="230" rx="12" fill="#142d27"/>
+  <text x="36" y="100" font-family="Georgia, serif" font-size="46" fill="#f5f0e7">TrackerR</text>
+  <text x="38" y="139" font-family="Verdana, sans-serif" font-size="17" fill="#a9dfc8">A little more focus.</text>
+  <circle cx="567" cy="112" r="68" fill="none" stroke="#294b3e" stroke-width="16"/><path d="M567 44a68 68 0 1 1-64 91" fill="none" stroke="#a9dfc8" stroke-width="16" stroke-linecap="round"/><path d="M567 76v39l23 15" fill="none" stroke="#f29079" stroke-width="7" stroke-linecap="round"/>
+</svg>
