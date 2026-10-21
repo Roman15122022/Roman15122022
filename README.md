@@ -21,8 +21,8 @@ I enjoy the whole journey: **a clear idea, thoughtful interactions, and the engi
 ## Tech stack
 
 <picture>
-  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Roman15122022/Roman15122022/8f3312e4f32de5fde3f61b2d2d3ec5a303775dda/assets/tech-stack-mobile.svg" />
-  <img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/8f3312e4f32de5fde3f61b2d2d3ec5a303775dda/assets/tech-stack.svg" alt="Languages: TypeScript, JavaScript. Web and mobile: React, Next.js, Angular, React Native, Expo, Redux Toolkit. Backend: Node.js, NestJS, GraphQL, Apollo. Data: Firebase, IndexedDB, Dexie, Zustand. Interface: HTML, CSS, Tailwind, Sass, Styled Components, Figma. Tools: Vite, Webpack, Vitest, Git, GitHub Actions, AWS." width="100%" />
+  <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/Roman15122022/Roman15122022/87ea52d6c5a3fa5df43c773837301fc9443ccf55/assets/tech-stack-mobile.svg" />
+  <img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/87ea52d6c5a3fa5df43c773837301fc9443ccf55/assets/tech-stack.svg" alt="Languages: TypeScript, JavaScript. Web and mobile: React, Next.js, Angular, React Native, Expo, Redux Toolkit. Backend: Node.js, NestJS, GraphQL, Apollo. Data: Firebase, IndexedDB, Dexie, Zustand. Interface: HTML, CSS, Tailwind, Sass, Styled Components, Figma. Tools: Vite, Webpack, Vitest, Git, GitHub Actions, AWS." width="100%" />
 </picture>
 
 <br />
