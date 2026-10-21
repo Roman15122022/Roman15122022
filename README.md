@@ -23,38 +23,58 @@ I enjoy the whole journey: **a clear idea, thoughtful interactions, and the engi
 <table>
   <tr>
     <td colspan="2" valign="top">
+      <br />
       <a href="https://lexi-english-six.vercel.app"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-lexi.svg" alt="Lexi English — Make new words your own" width="100%" /></a>
       <h3><a href="https://lexi-english-six.vercel.app">Lexi English</a></h3>
       <p>A personal English vocabulary app with spaced-repetition flashcards, translations, pronunciation, and word imports. Learn offline, track your progress, and keep your vocabulary on your device — no account required.</p>
       <p><a href="https://lexi-english-six.vercel.app"><strong>Start learning ↗</strong></a></p>
+      <br />
     </td>
   </tr>
+</table>
+
+<br />
+
+<table>
   <tr>
     <td width="50%" valign="top">
+      <br />
       <a href="https://github.com/Roman15122022/React-redux-toolkit-extension"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-trackerr.svg" alt="TrackerR — A little more focus" width="100%" /></a>
       <h3><a href="https://github.com/Roman15122022/React-redux-toolkit-extension">TrackerR</a></h3>
       <p>Your time, with a little more intention. A productivity extension with activity history, focus goals, achievements, and time statistics.</p>
       <p><a href="https://chromewebstore.google.com/detail/trackerr/nnjjpdjebmdlimpgjfegobcamnabdbfp"><strong>Get the extension ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/React-redux-toolkit-extension">Code</a></p>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <a href="https://github.com/Roman15122022/ListOfProducts"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-shopping.svg" alt="Smart Shopping — Plan less. Live more." width="100%" /></a>
       <h3><a href="https://github.com/Roman15122022/ListOfProducts">Smart Shopping List</a></h3>
       <p>An offline-first shopping PWA with budgets, purchase history, pantry tracking, and recipe discovery. Your lists stay on your device.</p>
       <p><a href="https://roman15122022.github.io/ListOfProducts/"><strong>Try the app ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/ListOfProducts">Code</a></p>
+      <br />
     </td>
   </tr>
+</table>
+
+<br />
+
+<table>
   <tr>
     <td width="50%" valign="top">
+      <br />
       <a href="https://github.com/Roman15122022/test-task-google-form-clone"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-forms.svg" alt="Forms Lite — Ask. Collect. Understand." width="100%" /></a>
       <h3><a href="https://github.com/Roman15122022/test-task-google-form-clone">Forms Lite</a></h3>
       <p>Create forms, collect submissions, and explore responses. A full-stack form builder with a GraphQL API and shared, generated type contracts.</p>
       <p><a href="https://github.com/Roman15122022/test-task-google-form-clone"><strong>Explore the project ↗</strong></a></p>
+      <br />
     </td>
     <td width="50%" valign="top">
+      <br />
       <a href="https://github.com/Roman15122022/pockemon-info"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-pokemon.svg" alt="PokeAPI Explorer — A world worth exploring" width="100%" /></a>
       <h3><a href="https://github.com/Roman15122022/pockemon-info">PokeAPI Explorer</a></h3>
       <p>A Pokédex with search, filters, pagination, and a details drawer. Discover Pokémon and keep a collection of favorites between visits.</p>
       <p><a href="https://roman15122022.github.io/pockemon-info/"><strong>Explore Pokémon ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/pockemon-info">Code</a></p>
+      <br />
     </td>
   </tr>
 </table>
