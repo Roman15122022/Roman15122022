@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="230" viewBox="0 0 720 230" role="img" aria-labelledby="title description">
+  <title id="title">Forms Lite</title>
+  <desc id="description">Ask. Collect. Understand. Original geometric project cover.</desc>
+  <rect width="720" height="230" rx="12" fill="#272b48"/>
+  <text x="36" y="100" font-family="Georgia, serif" font-size="46" fill="#f1edf8">Forms Lite</text>
+  <text x="38" y="139" font-family="Verdana, sans-serif" font-size="17" fill="#c3b9ed">Ask. Collect. Understand.</text>
+  <rect x="505" y="41" width="118" height="150" rx="10" fill="#3c4165"/><path d="M526 73h73" stroke="#c3b9ed" stroke-width="6" stroke-linecap="round"/><circle cx="530" cy="105" r="5" fill="#efc8ae"/><path d="M546 105h50" stroke="#b0add0" stroke-width="5" stroke-linecap="round"/><circle cx="530" cy="132" r="5" fill="#efc8ae"/><path d="M546 132h37" stroke="#b0add0" stroke-width="5" stroke-linecap="round"/><rect x="524" y="155" width="40" height="13" rx="5" fill="#c3b9ed"/>
+</svg>
