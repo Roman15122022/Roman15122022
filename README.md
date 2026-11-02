@@ -71,18 +71,18 @@ I enjoy the whole journey: **a clear idea, thoughtful interactions, and the engi
   <tr>
     <td width="50%" valign="top">
       <br />
-      <a href="https://github.com/Roman15122022/test-task-google-form-clone"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-forms.svg" alt="Forms Lite — Ask. Collect. Understand." width="100%" /></a>
-      <h3><a href="https://github.com/Roman15122022/test-task-google-form-clone">Forms Lite</a></h3>
-      <p>Create forms, collect submissions, and explore responses. A full-stack form builder with a GraphQL API and shared, generated type contracts.</p>
-      <p><a href="https://github.com/Roman15122022/test-task-google-form-clone"><strong>Explore the project ↗</strong></a></p>
+      <a href="https://apps.apple.com/ua/app/signscan/id6461823283"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-signscan.svg" alt="SignScan — Know the signs. Be road ready." width="100%" /></a>
+      <h3><a href="https://apps.apple.com/ua/app/signscan/id6461823283">SignScan</a></h3>
+      <p>A mobile companion for learning road signs and preparing for driving theory exams. Practice traffic-rules (PDR) tests, identify signs with AI and learn what they mean, or explore the built-in sign library. Multiple subscription tiers offer different levels of access.</p>
+      <p><a href="https://apps.apple.com/ua/app/signscan/id6461823283"><strong>App Store ↗</strong></a> &nbsp; · &nbsp; <a href="https://play.google.com/store/apps/details?id=com.signscan">Google Play ↗</a></p>
       <br />
     </td>
     <td width="50%" valign="top">
       <br />
-      <a href="https://github.com/Roman15122022/pockemon-info"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-pokemon.svg" alt="PokeAPI Explorer — A world worth exploring" width="100%" /></a>
-      <h3><a href="https://github.com/Roman15122022/pockemon-info">PokeAPI Explorer</a></h3>
-      <p>A Pokédex with search, filters, pagination, and a details drawer. Discover Pokémon and keep a collection of favorites between visits.</p>
-      <p><a href="https://roman15122022.github.io/pockemon-info/"><strong>Explore Pokémon ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/Roman15122022/pockemon-info">Code</a></p>
+      <a href="https://midstem.net/"><img src="https://raw.githubusercontent.com/Roman15122022/Roman15122022/main/assets/project-midstem.svg" alt="Midstem — A first impression that performs." width="100%" /></a>
+      <h3><a href="https://midstem.net/">Midstem</a></h3>
+      <p>A company landing page where presentation meets performance. My work includes developing and refining the site, improving page speed, providing ongoing support, and migrating between technologies to keep the experience moving forward.</p>
+      <p><a href="https://midstem.net/"><strong>Visit the website ↗</strong></a></p>
       <br />
     </td>
   </tr>
@@ -100,11 +100,11 @@ A full-stack banner-management app: image uploads, previews, validation, server-
 
 ---
 
-### SignScan
+### [Forms Lite](https://github.com/Roman15122022/test-task-google-form-clone)
 
-AI-powered road-sign recognition and driving theory practice, available on mobile.
+Create forms, collect submissions, and explore responses. A full-stack form builder with a GraphQL API and shared, generated type contracts.
 
-[App Store ↗](https://apps.apple.com/ua/app/signscan/id6461823283) &nbsp; · &nbsp; [Google Play ↗](https://play.google.com/store/apps/details?id=com.signscan)
+[Explore the code ↗](https://github.com/Roman15122022/test-task-google-form-clone)
 
 ---
 
@@ -116,11 +116,11 @@ A home for fuel expenses, maintenance history, and service contacts — with ana
 
 ---
 
-### Midstem
+### [PokeAPI Explorer](https://github.com/Roman15122022/pockemon-info)
 
-Company website development, page-speed improvements, ongoing support, and migration between technologies.
+A Pokédex with search, filters, pagination, and a details drawer. Discover Pokémon and keep a collection of favorites between visits.
 
-[Visit the website ↗](https://midstem.net/)
+[Explore Pokémon ↗](https://roman15122022.github.io/pockemon-info/) &nbsp; · &nbsp; [Code](https://github.com/Roman15122022/pockemon-info)
 
 ---
 
